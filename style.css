@@ -1,0 +1,40 @@
+.parent{
+    padding-left:300px;
+    flex-wrap: nowrap;
+    background-color: rgb(151, 105, 229);
+    border: 10px solid royalblue;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+
+.btn{
+    display: flex;
+    border: 2px soild;
+    background-color: rgb(151, 105, 229);
+    margin: 12px;
+    position: relative;
+    left: 600px;
+    font-size: 40px;
+    color: aliceblue;
+    cursor: pointer;
+    
+}
+
+h1{
+    margin-left: 200px;
+    justify-content: center;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.innerdiv {
+    padding-left: 20;
+    justify-content: center;
+    align-items: center;
+    display:inline-flex;
+    background-color: #3498db;
+    margin: 10px;
+}
