@@ -1,4 +1,4 @@
-# Bubble Sort Visualizer
+# Bubble Sort Visualizer  https://bubblesort-visualizer.netlify.app/
 
 This project is a simple bubble sort visualizer that demonstrates the sorting algorithm by animating bars in a vertical layout.
 
